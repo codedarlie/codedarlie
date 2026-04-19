@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Welcome 👋 </h1>
 
-<!--
-**codedarlie/codedarlie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/darliegram)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Darlie)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/codedarlie/)
 
-Here are some ideas to get you started:
+## Пет-Проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ПО для нахождения кратчайшего пути в графе 
+![Tkinter](https://img.shields.io/badge/Tkinter-blue)
+
+2024г.
+
+#### Стековый калькулятор
+
+![SFML Badge](https://img.shields.io/badge/Built%20with-SFML-lightgreen)
+
+2024г.
+
+#### Бот-расписание
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Sqlite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white)
+![VK](https://img.shields.io/badge/-VK_API-0077ff)
+
+2021г.
+
+Мой первый проект, с которого я начал свой путь в программировании. Ужасный код, странные решения, но большой энтузиазм и сильное желание помочь людям.
+
+
+<!-- <details align="left">
+  <summary><h2><b>📚 My stack</b></h2></summary>
+  <p>
+    <h3>Languages</h3>
+    <img src="https://skillicons.dev/icons?i=cpp,py,html,postgres,sqlite&perline=7" />
+    <h3>Frameworks / Tools</h3>
+    <img src="https://skillicons.dev/icons?i=docker,git&perline=7" />
+    <h3>Software</h3>
+    <img src="https://skillicons.dev/icons?i=visualstudio&perline=7" />
+    <br>
+  </p>
+</details> -->
+
+
+<!--  ### GitHub Streak And Activity
+[![codedarlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=codedarlie)](https://github.com/codedarlie/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=codedarlie&theme=highcontrast&hide_border=true&border_radius=15&short_numbers=true&exclude_days=Sun%2CSat&card_width=700&card_height=200)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codedarlie&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
