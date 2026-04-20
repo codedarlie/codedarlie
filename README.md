@@ -6,7 +6,7 @@
 
 ## Пет-Проекты
 
-#### [ПО для нахождения кратчайшего пути в графе](https://github.com/codedarlie/shortest-path-visualizer)
+#### [ПО для нахождения кратчайшего пути в графе](https://github.com/codedarlie/graph-shortest-path-visualizer/)
 ![2024](https://img.shields.io/badge/2024-red.svg)
 ![Tkinter](https://img.shields.io/badge/Tkinter-blue)
 ![Bellman–Ford](https://img.shields.io/badge/Bellman–Ford-orange)
@@ -15,7 +15,7 @@
 
 #### Стековый калькулятор
 ![2024](https://img.shields.io/badge/2024-red.svg)
-![SFML Badge](https://img.shields.io/badge/Built%20with-SFML-lightgreen)
+![SFML Badge](https://img.shields.io/badge/SFML-lightgreen)
 
 #### Бот-расписание
 ![2021](https://img.shields.io/badge/2021-red.svg)
