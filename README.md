@@ -13,9 +13,14 @@
 
 Визуализация алгоритма Беллмана–Форда с GUI на Tkinter. Поддержка отрицательных весов, ручное/случайное построение графов, анимация поиска пути.
 
-#### Стековый калькулятор
+#### [Стековый калькулятор](https://github.com/codedarlie/stack-calculator)
 ![2024](https://img.shields.io/badge/2024-red.svg)
-![SFML Badge](https://img.shields.io/badge/SFML-lightgreen)
+![SFML](https://img.shields.io/badge/SFML-2.6-green)
+![C++](https://img.shields.io/badge/C++-17-blue)
+
+Консольная и графическая версия калькулятора обратной польской нотации (ОПН).  
+Поддержка функций (sin, cos, ln), переменной x, констант π и e.  
+Построение графиков, вычисление производной, рисование касательных по клику.
 
 #### Бот-расписание
 ![2021](https://img.shields.io/badge/2021-red.svg)
