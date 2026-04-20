@@ -6,26 +6,24 @@
 
 ## Пет-Проекты
 
-#### ПО для нахождения кратчайшего пути в графе 
+#### [ПО для нахождения кратчайшего пути в графе](https://github.com/codedarlie/shortest-path-visualizer)
+![2024](https://img.shields.io/badge/2024-red.svg)
 ![Tkinter](https://img.shields.io/badge/Tkinter-blue)
+![Bellman–Ford](https://img.shields.io/badge/Bellman–Ford-orange)
 
-2024г.
+Визуализация алгоритма Беллмана–Форда с GUI на Tkinter. Поддержка отрицательных весов, ручное/случайное построение графов, анимация поиска пути.
 
 #### Стековый калькулятор
-
+![2024](https://img.shields.io/badge/2024-red.svg)
 ![SFML Badge](https://img.shields.io/badge/Built%20with-SFML-lightgreen)
 
-2024г.
-
 #### Бот-расписание
+![2021](https://img.shields.io/badge/2021-red.svg)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Sqlite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white)
 ![VK](https://img.shields.io/badge/-VK_API-0077ff)
 
-2021г.
-
 Мой первый проект, с которого я начал свой путь в программировании. Ужасный код, странные решения, но большой энтузиазм и сильное желание помочь людям.
-
 
 <!-- <details align="left">
   <summary><h2><b>📚 My stack</b></h2></summary>
