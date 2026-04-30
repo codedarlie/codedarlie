@@ -8,6 +8,16 @@
 
 ## Пет-Проекты
 
+#### [Лабораторные работы по ООП](https://github.com/codedarlie/oop-discipline)
+![2025](https://img.shields.io/badge/2025-red.svg)
+![C++](https://img.shields.io/badge/C++-17-blue)
+![Qt](https://img.shields.io/badge/Qt-6.0+-41CD52?logo=qt)
+![OOP](https://img.shields.io/badge/OOP-purple)
+
+Пять проектов, демонстрирующих концепции объектно-ориентированного программирования.  
+Включает: иерархию матриц, MVC-приложение, графический редактор фигур, интерактивный квест и редактор кругов.  
+Поддержка консольного и GUI-приложений на Qt.
+
 #### [ПО для нахождения кратчайшего пути в графе](https://github.com/codedarlie/graph-shortest-path-visualizer/)
 ![2024](https://img.shields.io/badge/2024-red.svg)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
